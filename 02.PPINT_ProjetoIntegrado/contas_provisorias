@@ -1,0 +1,84 @@
+//ResourceBundle bn = ResourceBundle.getBundle("tela", new Locale("pt", "BR"));;
+		/*
+		Usuario user = new Usuario();
+		user.gerarChaveRSA();
+		*/ 
+		/*
+		Usuario a = new Usuario();
+		Usuario b = new Usuario();
+		try {
+			/*
+			b.setIdUsuario(5001);
+			b.setLogin("Hugo.Yoshimura");
+			b.setSenha("yoshimura");
+			b.setTipoConta(4);
+			a.cadastrarSenhaRSA(b);
+			
+			b.setIdUsuario(5004);
+			b.setLogin("Jose.Rubens");
+			b.setSenha("wanderley");
+			b.setTipoConta(3);
+			a.cadastrarSenhaRSA(b);
+			
+			b.setIdUsuario(5003);
+			b.setLogin("Lucas.Hayato");
+			b.setSenha("hayato378");
+			b.setTipoConta(2);
+			a.cadastrarSenhaRSA(b);
+			
+			b.setIdUsuario(5004);
+			b.setLogin("Gabriel.Oliveira");
+			b.setSenha("almeida");
+			b.setTipoConta(1);
+			a.cadastrarSenhaRSA(b);
+		
+			// a.cadastrarSenha("95160276602", "Marcos", "nunes", 3);
+			b.setIdUsuario(5005);
+			b.setLogin("Marcos.Nunes");
+			b.setSenha("nunes");
+			b.setTipoConta(2);
+			a.cadastrarSenhaRSA(b);
+			
+			// a.cadastrarSenha("19751001820", "Liliam", "souza", 3);
+			b.setIdUsuario(5006);
+			b.setLogin("Liliam.Souza");
+			b.setSenha("souza");
+			b.setTipoConta(1);
+			a.cadastrarSenhaRSA(b);
+		
+			// a.cadastrarSenha("04731787378", "Giovanni", "maciel", 3);
+			b.setIdUsuario(5007);
+			b.setLogin("Giovanni.Maciel");
+			b.setSenha("maciel");
+			b.setTipoConta(2);
+			a.cadastrarSenhaRSA(b);
+			
+			// a.cadastrarSenha("96235921675", "João", "neves", 3);
+			b.setIdUsuario(5008);
+			b.setLogin("João.Neves");
+			b.setSenha("neves");
+			b.setTipoConta(1);
+			a.cadastrarSenhaRSA(b);
+		
+			// a.cadastrarSenha("22091080390", "Marcia", "pereira", 3);
+			b.setIdUsuario(5009);
+			b.setLogin("Marcia.Pereira");
+			b.setSenha("pereira");
+			b.setTipoConta(1);
+			a.cadastrarSenhaRSA(b);
+			
+			// a.cadastrarSenha("53757906888", "Aline", "monteiro", 4);
+			b.setIdUsuario(5010);
+			b.setLogin("Aline.Monteiro");
+			b.setSenha("monteiro");
+			b.setTipoConta(1);
+			a.cadastrarSenhaRSA(b);
+		
+			
+			} catch (Exception exception) {
+			// TODO Auto-generated catch block
+			exception.printStackTrace();
+		}
+		/*	*/
+		
+		/**/
