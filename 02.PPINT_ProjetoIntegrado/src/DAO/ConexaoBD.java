@@ -14,6 +14,6 @@ public class ConexaoBD {
 	}
 
 	public Connection obtemConexao() throws SQLException {
-		return DriverManager.getConnection("jdbc:mysql://localhost/scp?user=root&password=Hug0-Masay0sh1");
+		return DriverManager.getConnection("jdbc:mysql://localhost/scp?user=root&password=alunos");
 	}
 }
